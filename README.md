@@ -1,4 +1,4 @@
-<img width="1377" height="768" alt="image_4ec8df6" src="https://github.com/user-attachments/assets/35b29750-9fc9-4925-859b-e817192fad99" />
+<img width="1345" height="758" alt="image_4ec8df6-2" src="https://github.com/user-attachments/assets/2ca657e2-ed50-40c9-9c1d-a95b62f61312" />
 # Telecom Customer Churn Predictor: Transforming Structural Data into Retention Strategies
 
 An end-to-end data science and machine learning project predicting customer cancellation (churn) using a dataset of **7,000+ customer profiles** from IBM Telecom.
